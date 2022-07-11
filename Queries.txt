@@ -1,0 +1,18 @@
+Q1: Year - 2022 - top rated movies - horror - done
+Q2:	Director x - 2015 - 2020 - all the movies - done
+Q3:	Director taken movies - Genre wise count - done
+Q4:	Movie - cast - entirely - done
+Q5:	worst rated movie of all time - done
+Q6:	director with most no of flops (depending on rating) - done
+Q7:	actor - max num - combo - num of movies
+Q8:	actor - hit movies (rating > 7) - done
+Q9:	Top rated review - lowest for a particular movie - done
+Q10	actor - all movies list - order by date (recent) - done
+Q11	director .... - done
+Q12 Fetch by particular genre - done
+
+	Suggested - upcoming movies
+
+	Movie details - search hits - 
+
+	billboards - weekly, etc - top rated - done
