@@ -6,7 +6,7 @@ const mockData = require('./MOCK_DATA.json')
 const {getAllUsers} = require('./controllers.js')
 const routes = require('./routes.js')
 
-const {fetchAllActors, q1, q2} = require('./index3.js')
+const {fetchAllActors, q1, q2, q3} = require('./index3.js')
 
 const sequelize = new Sequelize('seq-queries', 'srinaaths', '', {
 	dialect: 'postgres'
@@ -72,6 +72,10 @@ server.route([{
 	method: 'GET',
 	path: '/q2/{name}',
 	handler: q2
+}, {
+	method: 'GET',
+	path: '/q3/{name}',
+	handler: q3
 }])
 
 module.exports = {User}
